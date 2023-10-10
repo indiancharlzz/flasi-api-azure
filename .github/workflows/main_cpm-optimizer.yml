@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'cpm-optimizer'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_801D62F3B7FA4761A1ADA5D83CF180AA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ACC03C8AE2EC4795906929656E0D66BA }}
